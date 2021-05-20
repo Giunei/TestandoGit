@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="br">
+<head>
+    <meta charset="UTF-8">
+    <title>Ingredientes</title>
+</head>
+<body>
+    <ul>
+        <li>Ovo</li>
+        <li>Massa</li>
+    </ul>
+</body>
+</html>
